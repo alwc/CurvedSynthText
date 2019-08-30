@@ -1,0 +1,1 @@
+rlaunch --cpu=20 --memory=10000 -- mdl create_synthtext_nori.py --jobs=20 --data_dir=/unsullied/sharefs/_csg_algorithm/Interns/guanyushuo/OCR/SynthText/SynthTextData/results_curved_bin2 --dest_path=/unsullied/sharefs/_csg_algorithm/Interns/yangmingkun/datasets/scenetext/noris/synthtext
