@@ -2,7 +2,7 @@
 
 Code for generating the _CurvedSynth_ dataset used in our paper: [Alchemy: Tricks for Rectification Based Irregular Scene Text Recognition (To be uploaded to Arxiv)](https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy). 
 
-Rectification based scene text recognizers trained on this dataset can achieve an improvement by more than $10\%$ on Total-Text. For more details, please read our papers. 
+Rectification based scene text recognizers trained on this dataset can achieve an improvement by more than __10%__ on Total-Text. For more details, please read our papers. 
 
 -----
 
